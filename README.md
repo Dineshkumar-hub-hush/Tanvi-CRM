@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TanviCRM Deployment
 
 TanviCRM has a React/Vite frontend and a FastAPI backend.
@@ -36,6 +37,7 @@ ADMIN_EMAIL=admin@example.com
 ADMIN_NAME=Your Name
 ADMIN_PASSWORD=use-a-strong-password
 CORS_ORIGINS=https://your-frontend-domain.com
+CORS_ORIGIN_REGEX=https://.*\\.vercel\\.app
 ```
 
 Install and start:
@@ -57,3 +59,6 @@ Health check:
 GET /health
 ```
 
+=======
+# Tanvi-CRM
+>>>>>>> 063a2cde043a7aab2bca11be1ae44e7891d575d4
