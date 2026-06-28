@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="TanviCRM">
+  <rect width="64" height="64" rx="14" fill="#0f172a"/>
+  <path d="M16 18h32v9H36v21h-8V27H16z" fill="#5eead4"/>
+  <path d="M42 40c0 4.4-3.6 8-8 8h-6v-7h6c.6 0 1-.4 1-1s-.4-1-1-1h-5v-7h5c4.4 0 8 3.6 8 8z" fill="#ffffff"/>
+</svg>
